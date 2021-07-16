@@ -1,0 +1,6 @@
+C:\Users\Federico Sirna\Desktop\PROG 2\tp_laboratorio_2\TP3\TP3FedericoSirna\Archivos\bin\Debug\Archivos.dll
+C:\Users\Federico Sirna\Desktop\PROG 2\tp_laboratorio_2\TP3\TP3FedericoSirna\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Federico Sirna\Desktop\PROG 2\tp_laboratorio_2\TP3\TP3FedericoSirna\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Federico Sirna\Desktop\PROG 2\tp_laboratorio_2\TP3\TP3FedericoSirna\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Federico Sirna\Desktop\PROG 2\tp_laboratorio_2\TP3\TP3FedericoSirna\Archivos\obj\Debug\Archivos.dll
+C:\Users\Federico Sirna\Desktop\PROG 2\tp_laboratorio_2\TP3\TP3FedericoSirna\Archivos\obj\Debug\Archivos.pdb
